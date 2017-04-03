@@ -1,0 +1,15 @@
+{
+  "name": "github-issue-linker",
+  "version": "1.0.0",
+  "description": "Zulip bot to subscribe to updates on GitHub issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Rohitt Vashishtha (aero31aero@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "zulip-js": "^1.0.11"
+  }
+}
